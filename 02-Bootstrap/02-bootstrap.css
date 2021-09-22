@@ -1,0 +1,12 @@
+.fondo {
+    background-image: url("fondo2.jfif");
+    background-repeat: cover;
+}
+
+.razones {
+    background-image: url("razones.jpg");
+}
+
+.cuadros {
+    background-image: url("raz.jfif");
+}
